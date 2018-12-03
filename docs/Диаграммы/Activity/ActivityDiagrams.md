@@ -5,8 +5,8 @@
 3. [Поиск книги](#search)
 
 ## 1. Зарегистрироваться <a name="signup"></a>
-![Иллюстрация к проекту](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/Activity/ActivitySignUp.jpg)
+![Иллюстрация к проекту](https://github.com/Mouzer1/Library/blob/master/docs/Диаграммы/Activity/ActivitySignUp.jpg)
 ## 2. Войти в систему <a name="signin"></a>
-![Иллюстрация к проекту](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/Activity/ActivitySignIn.jpg)
+![Иллюстрация к проекту](https://github.com/Mouzer1/Library/blob/master/docs/Диаграммы/Activity/ActivitySignIn.jpg)
 ## 3. Поиск книги <a name="search"></a>
-![Иллюстрация к проекту](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/Activity/ActivitySearch.jpg)
+![Иллюстрация к проекту](https://github.com/Mouzer1/Library/blob/master/docs/Диаграммы/Activity/ActivitySearch.jpg)
