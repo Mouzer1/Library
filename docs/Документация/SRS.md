@@ -42,22 +42,22 @@ https://library.bsuir.by/
 Приложение реальзовано с использованием технологий Servlets и JSP и библиотеки тегов JSTL. Вся информация хранится в реляционной базе данных.
 ### 2.2 Интерфейс пользователя <a name="userinterface"></a>
 Стартовая страница
-![mainpage](https://user-images.githubusercontent.com/43030870/46442937-19ee9500-c774-11e8-9edd-748c90ee130e.png)
+![mainpage]()
 
 Страница регистрации
-![registrationpage](https://user-images.githubusercontent.com/43030870/46443075-a9944380-c774-11e8-9aac-ee67986185ca.png)
+![registrationpage])
 
 Гланая страница администратора
-![adminpage](https://user-images.githubusercontent.com/43030870/46443008-633ee480-c774-11e8-8462-b8ad6552b0c2.png)
+![adminpage]()
 
 Страница просмотра новых заявок на бронь
-![adminbookingrequests](https://user-images.githubusercontent.com/43030870/46443227-3fc86980-c775-11e8-9f22-29757f40c517.png)
+![adminbookingrequests]()
 
 Главная страница пользователя
-![userpage](https://user-images.githubusercontent.com/43030870/46443249-579fed80-c775-11e8-8af3-f625c414c5d8.png)
+![userpage]()
 
 Страница результатов поиска книги<br>
-![userbooksearch](https://github.com/Mouzer1/Library/blob/master/docs/Мокапы/BookSearchUser.png)
+![userbooksearch]()
 
 ### 2.3 Характеристики пользователей <a name="usercharacheteristics"></a>
 #### 2.3.1 Классы пользователей <a name="class"></a> 
