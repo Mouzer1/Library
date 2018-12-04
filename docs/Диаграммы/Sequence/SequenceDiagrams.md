@@ -6,8 +6,8 @@
 3. [Поиск книги](#search)
 
 ## 1. Войти в систему <a name="signin"></a>
-![исп](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/Sequence/SequenceSignIn.jpg)
+![исп](https://github.com/Mouzer1/Library/blob/master/docs/Диаграммы/Sequence/SequenceSignIn.jpg)
 ## 2. Зарегистрироваться <a name="signup"></a>
-![исп](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/Sequence/SequenceSignUp.jpg)
+![исп](https://github.com/Mouzer1/Library/blob/master/docs/Диаграммы/Sequence/SequenceSignUp.jpg)
 ## 3. Поиск книги <a name="search"></a>
-![исп](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/Sequence/SequenceeSearch.jpg)
+![исп](https://github.com/Mouzer1/Library/blob/master/docs/Диаграммы/Sequence/SequenceeSearch.jpg)
