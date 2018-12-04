@@ -57,7 +57,7 @@ https://library.bsuir.by/
 ![userpage](https://user-images.githubusercontent.com/43030870/46443249-579fed80-c775-11e8-8af3-f625c414c5d8.png)
 
 Страница результатов поиска книги
-![userbooksearch](https://user-images.githubusercontent.com/43030870/46443268-6ab2bd80-c775-11e8-9e95-853dbc5460d7.png)
+![userbooksearch](https://github.com/Mouzer1/Library/blob/master/docs/Мокапы/BookSearchUser.png)
 
 ### 2.3 Характеристики пользователей <a name="usercharacheteristics"></a>
 #### 2.3.1 Классы пользователей <a name="class"></a> 
