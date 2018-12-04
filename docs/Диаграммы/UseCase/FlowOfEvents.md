@@ -122,5 +122,5 @@
 1. Выводится сообщение о том, что заявок нет.
 2. Приложение переходит на главную страницу библиотекаря.
 3. Завершение альтернативного потока.  
-[Просмотреть диаграмму вариантов использования](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/UseCase/Use%20Case.jpg)
+[Просмотреть диаграмму вариантов использования](https://github.com/Mouzer1/Library/blob/master/docs/Диаграммы/UseCase/Use%20Case.jpg)
 
