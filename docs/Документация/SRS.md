@@ -41,19 +41,19 @@ https://library.bsuir.by/
 ### 2.1 Программные интерфейсы <a name="proginterfaces"></a>
 Приложение реальзовано с использованием технологий Servlets, JSP, Tomcat и библиотеки тегов JSTL. Вся информация хранится в реляционной базе данных.
 ### 2.2 Интерфейс пользователя <a name="userinterface"></a>
-Стартовая страница
+Стартовая страница<br>
 ![mainpage](https://github.com/Mouzer1/Library/blob/master/docs/Мокапы/MainPage.png)
 
-Страница регистрации
+Страница регистрации<br>
 ![registrationpage](https://github.com/Mouzer1/Library/blob/master/docs/Мокапы/Registration.png)
 
-Гланая страница администратора
+Гланая страница администратора<br>
 ![adminpage](https://github.com/Mouzer1/Library/blob/master/docs/Мокапы/AdminPage.png)
 
-Страница просмотра новых заявок на бронь
+Страница просмотра новых заявок на бронь<br>
 ![adminbookingrequests](https://github.com/Mouzer1/Library/blob/master/docs/Мокапы/AdminBookingRequests.png)
 
-Главная страница пользователя
+Главная страница пользователя<br>
 ![userpage](https://github.com/Mouzer1/Library/blob/master/docs/Мокапы/UserPage.png)
 
 Страница результатов поиска книги<br>
