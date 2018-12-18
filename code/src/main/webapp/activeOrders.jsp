@@ -28,7 +28,6 @@
          <td>${order.getBook()}</td>
          <td>${order.getName()}</td>
          <td>${order.getSurname()}</td>
-         <td> 
          <form action="MainServlet" method="GET">
 	<input type="hidden" name="command" value="wasReturned" />
 	<input type="hidden" name="order_id" value="${order.getId()}" />
